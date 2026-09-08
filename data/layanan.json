@@ -1,0 +1,2632 @@
+[
+  {
+    "kategori": "Pelatihan",
+    "nama": "Ahli K3 Umum",
+    "slug": "ahli-k3-umum",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "SMK3",
+    "slug": "smk3",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Forklift",
+    "slug": "operator-forklift",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Alat Berat Excavator Bulldozer Vibro Dump Truck Wheel Loader",
+    "slug": "operator-alat-berat-excavator-bulldozer-vibro-dump-truck-wheel-loader",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Gondola",
+    "slug": "operator-gondola",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Lifter, Manlift, Boomlift, Scissor Lift",
+    "slug": "operator-lifter-manlift-boomlift-scissor-lift",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Pallet Mover, Liftstacker, Reachstacker",
+    "slug": "operator-pallet-mover-liftstacker-reachstacker",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Tower Crane",
+    "slug": "operator-tower-crane",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Overhead Crane Mobile Crane Pedestal Crane",
+    "slug": "operator-overhead-crane-mobile-crane-pedestal-crane",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Pita Transport (Conveyor) Kompressor",
+    "slug": "operator-pita-transport-conveyor-kompressor",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Rigger (Juru Ikat)",
+    "slug": "rigger-juru-ikat",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator K3 Cargo Hoist Crane Kelas 3 (Lift Barang)",
+    "slug": "operator-k3-cargo-hoist-crane-kelas-3-lift-barang",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Pesawat Angkat & Pesawat Angkut",
+    "slug": "pesawat-angkat-dan-pesawat-angkut",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Lift & Eskalator",
+    "slug": "lift-dan-eskalator",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Genset",
+    "slug": "operator-genset",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Turbin Uap & Gas",
+    "slug": "turbin-uap-dan-gas",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Mesin Produksi & Perkakas",
+    "slug": "operator-mesin-produksi-dan-perkakas",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Operator Tanur",
+    "slug": "operator-tanur",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Pesawat Tenaga & Produksi",
+    "slug": "pesawat-tenaga-dan-produksi",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Pesawat Uap Boiler",
+    "slug": "pesawat-uap-boiler",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Teknisi Bejana Tekan & Tangki Timbun",
+    "slug": "teknisi-bejana-tekan-dan-tangki-timbun",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Petugas P3K",
+    "slug": "petugas-p3k",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "K3 Rumah Sakit",
+    "slug": "k3-rumah-sakit",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Hiperkes Paramedic / Perawat",
+    "slug": "hiperkes-paramedic-perawat",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "HIPERKES Dokter",
+    "slug": "hiperkes-dokter",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "K3 Kebakaran DAMKAR DCBA",
+    "slug": "k3-kebakaran-damkar-dcba",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "K3 Kimia",
+    "slug": "k3-kimia",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Ahli K3 Muda Lingkungan Kerja",
+    "slug": "ahli-k3-muda-lingkungan-kerja",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "K3 Ruang Terbatas (Confined Space)",
+    "slug": "k3-ruang-terbatas-confined-space",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "K3 Listrik",
+    "slug": "k3-listrik",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "K3 Konstruksi",
+    "slug": "k3-konstruksi",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Perancah (Scaffolding)",
+    "slug": "perancah-scaffolding",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Juru Las (Welder)",
+    "slug": "juru-las-welder",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Tenaga Kerja Bangunan Tinggi (TKBT)",
+    "slug": "tenaga-kerja-bangunan-tinggi-tkbt",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Tenaga Kerja Pada Ketinggian (TKPK)",
+    "slug": "tenaga-kerja-pada-ketinggian-tkpk",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "WAH (Working at Height)",
+    "slug": "wah-working-at-height",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Pipe Fitter",
+    "slug": "pipe-fitter",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "K3 Konstruksi",
+    "slug": "k3-konstruksi-2",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "H2S JSA Ergonomi Permit to Work BBS HACCP HAZMAT LOTO",
+    "slug": "h2s-jsa-ergonomi-permit-to-work-bbs-haccp-hazmat-loto",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Authorizer Gas Tester",
+    "slug": "authorizer-gas-tester",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "DDT (Defensive Driving Training)",
+    "slug": "ddt-defensive-driving-training",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "K3 Migas",
+    "slug": "k3-migas",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Penanggung Jawab Operasional Pertama (POP) POM POU",
+    "slug": "penanggung-jawab-operasional-pertama-pop-pom-pou",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Insiden Investigator",
+    "slug": "insiden-investigator",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Penanggungjawab Operasional Pengolahan Air Limbah (POPAL)",
+    "slug": "penanggungjawab-operasional-pengolahan-air-limbah-popal",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Penanggungjawab Pengendalian Pencemaran Air (PPPA)",
+    "slug": "penanggungjawab-pengendalian-pencemaran-air-pppa",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Penanggungjawab Pengendalian Pencemaran Udara (PPPU) & POIPPU",
+    "slug": "penanggungjawab-pengendalian-pencemaran-udara-pppu-dan-poippu",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "PLB3 (Penanggung Jawab Pengelolaan B3) & OLB3 (Operator Pengelola Limbah B3)",
+    "slug": "plb3-penanggung-jawab-pengelolaan-b3-dan-olb3-operator-pengelola-limbah-b3",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Pengambil Contoh Uji Air (PCUA)",
+    "slug": "pengambil-contoh-uji-air-pcua",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Training Manajemen Risiko",
+    "slug": "training-manajemen-risiko",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Sea Survival HUET BOSIET & T-BOSIET",
+    "slug": "sea-survival-huet-bosiet-dan-t-bosiet",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Compressor",
+    "slug": "compressor",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Pelatihan",
+    "nama": "Drilling",
+    "slug": "drilling",
+    "regulasi": "Peraturan Menteri Ketenagakerjaan RI dan Keputusan Dirjen Binwasnaker & K3",
+    "manfaat": [
+      "Memenuhi kewajiban regulasi K3 sesuai peraturan perundang-undangan yang berlaku",
+      "Meningkatkan kompetensi dan kesadaran K3 tenaga kerja",
+      "Mengurangi risiko kecelakaan kerja dan penyakit akibat kerja",
+      "Mendapatkan sertifikat kompetensi yang diakui secara nasional",
+      "Meningkatkan produktivitas dan efisiensi operasional perusahaan"
+    ],
+    "output": "Sertifikat kompetensi yang diterbitkan oleh lembaga sertifikasi terakreditasi dan/atau Kemnaker RI, berlaku secara nasional.",
+    "foto": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80",
+    "fotoAlt": "Pelatihan K3 di lingkungan industri",
+    "proses": "Pelatihan dilaksanakan selama 1–12 hari kerja tergantung program, mencakup sesi teori di kelas dan praktik lapangan. Peserta mengikuti pre-test, materi inti, simulasi/praktik, dan post-test. Kelulusan ditentukan berdasarkan nilai ujian dan kehadiran minimal 90%. Sertifikat diterbitkan dalam 7–14 hari kerja setelah dinyatakan lulus.",
+    "faq": [
+      {
+        "q": "Apakah sertifikat pelatihan ini diakui secara resmi?",
+        "a": "Ya, seluruh program pelatihan kami mengacu pada regulasi Kemnaker RI dan menghasilkan sertifikat yang diakui secara nasional."
+      },
+      {
+        "q": "Berapa lama masa berlaku sertifikat?",
+        "a": "Masa berlaku sertifikat bervariasi tergantung program, umumnya 3–5 tahun dan dapat diperpanjang melalui program refreshing."
+      },
+      {
+        "q": "Apakah bisa dilakukan in-house training di perusahaan kami?",
+        "a": "Ya, kami menyediakan layanan in-house training di lokasi perusahaan Anda dengan jadwal yang fleksibel."
+      },
+      {
+        "q": "Apa persyaratan peserta?",
+        "a": "Umumnya minimal lulusan SMA/SMK, surat penugasan dari perusahaan, dan foto identitas. Persyaratan spesifik diinformasikan saat pendaftaran."
+      },
+      {
+        "q": "Berapa biaya pelatihan?",
+        "a": "Biaya bervariasi per program. Hubungi kami untuk mendapatkan penawaran harga terbaik sesuai kebutuhan."
+      },
+      {
+        "q": "Apakah ada ujian di akhir pelatihan?",
+        "a": "Ya, setiap program diakhiri dengan ujian teori dan/atau praktik sebagai syarat kelulusan dan penerbitan sertifikat."
+      }
+    ]
+  },
+  {
+    "kategori": "Kajian",
+    "nama": "Kajian Safety Culture Maturity Level",
+    "slug": "kajian-safety-culture-maturity-level",
+    "regulasi": "Peraturan Pemerintah No. 50 Tahun 2012 tentang SMK3 dan standar teknis terkait",
+    "manfaat": [
+      "Identifikasi risiko K3 secara sistematis dan terstruktur",
+      "Dasar pengambilan keputusan manajemen berbasis data teknis",
+      "Pemenuhan persyaratan regulasi untuk kajian teknis K3",
+      "Rekomendasi mitigasi risiko yang terukur dan dapat diimplementasikan",
+      "Dokumentasi teknis yang dapat digunakan untuk audit dan inspeksi"
+    ],
+    "output": "Laporan kajian teknis lengkap berisi metodologi, temuan, analisis risiko, dan rekomendasi mitigasi yang dapat digunakan sebagai dasar pengambilan keputusan manajemen.",
+    "foto": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=1200&q=80",
+    "fotoAlt": "Tim ahli melakukan kajian dan assessment risiko K3",
+    "proses": "Kajian dilaksanakan melalui tahapan: kick-off meeting, pengumpulan data lapangan, analisis teknis, penyusunan draft laporan, review bersama klien, dan finalisasi laporan. Durasi 2–6 minggu tergantung kompleksitas dan cakupan kajian.",
+    "faq": [
+      {
+        "q": "Apa output dari kajian ini?",
+        "a": "Laporan teknis lengkap berisi metodologi, temuan, analisis risiko, dan rekomendasi mitigasi yang actionable."
+      },
+      {
+        "q": "Siapa yang melakukan kajian?",
+        "a": "Tim ahli K3 bersertifikat dengan pengalaman di bidang terkait, didukung peralatan pengukuran yang terkalibrasi."
+      },
+      {
+        "q": "Berapa lama proses kajian?",
+        "a": "Umumnya 2–6 minggu tergantung kompleksitas, cakupan area, dan ketersediaan data dari klien."
+      },
+      {
+        "q": "Apakah laporan kajian dapat digunakan untuk keperluan regulasi?",
+        "a": "Ya, laporan kajian kami disusun sesuai standar teknis yang berlaku dan dapat digunakan untuk keperluan audit, inspeksi, maupun perizinan."
+      },
+      {
+        "q": "Apakah bisa dilakukan untuk fasilitas yang sudah beroperasi?",
+        "a": "Ya, kajian dapat dilakukan untuk fasilitas baru maupun yang sudah beroperasi, termasuk kajian ulang (re-assessment)."
+      }
+    ]
+  },
+  {
+    "kategori": "Kajian",
+    "nama": "Kajian Fire Risk Assessment",
+    "slug": "kajian-fire-risk-assessment",
+    "regulasi": "Peraturan Pemerintah No. 50 Tahun 2012 tentang SMK3 dan standar teknis terkait",
+    "manfaat": [
+      "Identifikasi risiko K3 secara sistematis dan terstruktur",
+      "Dasar pengambilan keputusan manajemen berbasis data teknis",
+      "Pemenuhan persyaratan regulasi untuk kajian teknis K3",
+      "Rekomendasi mitigasi risiko yang terukur dan dapat diimplementasikan",
+      "Dokumentasi teknis yang dapat digunakan untuk audit dan inspeksi"
+    ],
+    "output": "Laporan kajian teknis lengkap berisi metodologi, temuan, analisis risiko, dan rekomendasi mitigasi yang dapat digunakan sebagai dasar pengambilan keputusan manajemen.",
+    "foto": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=1200&q=80",
+    "fotoAlt": "Tim ahli melakukan kajian dan assessment risiko K3",
+    "proses": "Kajian dilaksanakan melalui tahapan: kick-off meeting, pengumpulan data lapangan, analisis teknis, penyusunan draft laporan, review bersama klien, dan finalisasi laporan. Durasi 2–6 minggu tergantung kompleksitas dan cakupan kajian.",
+    "faq": [
+      {
+        "q": "Apa output dari kajian ini?",
+        "a": "Laporan teknis lengkap berisi metodologi, temuan, analisis risiko, dan rekomendasi mitigasi yang actionable."
+      },
+      {
+        "q": "Siapa yang melakukan kajian?",
+        "a": "Tim ahli K3 bersertifikat dengan pengalaman di bidang terkait, didukung peralatan pengukuran yang terkalibrasi."
+      },
+      {
+        "q": "Berapa lama proses kajian?",
+        "a": "Umumnya 2–6 minggu tergantung kompleksitas, cakupan area, dan ketersediaan data dari klien."
+      },
+      {
+        "q": "Apakah laporan kajian dapat digunakan untuk keperluan regulasi?",
+        "a": "Ya, laporan kajian kami disusun sesuai standar teknis yang berlaku dan dapat digunakan untuk keperluan audit, inspeksi, maupun perizinan."
+      },
+      {
+        "q": "Apakah bisa dilakukan untuk fasilitas yang sudah beroperasi?",
+        "a": "Ya, kajian dapat dilakukan untuk fasilitas baru maupun yang sudah beroperasi, termasuk kajian ulang (re-assessment)."
+      }
+    ]
+  },
+  {
+    "kategori": "Kajian",
+    "nama": "Kajian Lingkungan Transportasi Maritim Budaya Kesehatan Ekonomi Sosial",
+    "slug": "kajian-lingkungan-transportasi-maritim-budaya-kesehatan-ekonomi-sosial",
+    "regulasi": "Peraturan Pemerintah No. 50 Tahun 2012 tentang SMK3 dan standar teknis terkait",
+    "manfaat": [
+      "Identifikasi risiko K3 secara sistematis dan terstruktur",
+      "Dasar pengambilan keputusan manajemen berbasis data teknis",
+      "Pemenuhan persyaratan regulasi untuk kajian teknis K3",
+      "Rekomendasi mitigasi risiko yang terukur dan dapat diimplementasikan",
+      "Dokumentasi teknis yang dapat digunakan untuk audit dan inspeksi"
+    ],
+    "output": "Laporan kajian teknis lengkap berisi metodologi, temuan, analisis risiko, dan rekomendasi mitigasi yang dapat digunakan sebagai dasar pengambilan keputusan manajemen.",
+    "foto": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=1200&q=80",
+    "fotoAlt": "Tim ahli melakukan kajian dan assessment risiko K3",
+    "proses": "Kajian dilaksanakan melalui tahapan: kick-off meeting, pengumpulan data lapangan, analisis teknis, penyusunan draft laporan, review bersama klien, dan finalisasi laporan. Durasi 2–6 minggu tergantung kompleksitas dan cakupan kajian.",
+    "faq": [
+      {
+        "q": "Apa output dari kajian ini?",
+        "a": "Laporan teknis lengkap berisi metodologi, temuan, analisis risiko, dan rekomendasi mitigasi yang actionable."
+      },
+      {
+        "q": "Siapa yang melakukan kajian?",
+        "a": "Tim ahli K3 bersertifikat dengan pengalaman di bidang terkait, didukung peralatan pengukuran yang terkalibrasi."
+      },
+      {
+        "q": "Berapa lama proses kajian?",
+        "a": "Umumnya 2–6 minggu tergantung kompleksitas, cakupan area, dan ketersediaan data dari klien."
+      },
+      {
+        "q": "Apakah laporan kajian dapat digunakan untuk keperluan regulasi?",
+        "a": "Ya, laporan kajian kami disusun sesuai standar teknis yang berlaku dan dapat digunakan untuk keperluan audit, inspeksi, maupun perizinan."
+      },
+      {
+        "q": "Apakah bisa dilakukan untuk fasilitas yang sudah beroperasi?",
+        "a": "Ya, kajian dapat dilakukan untuk fasilitas baru maupun yang sudah beroperasi, termasuk kajian ulang (re-assessment)."
+      }
+    ]
+  },
+  {
+    "kategori": "Jasa",
+    "nama": "Jasa UKL-UPL Amdal Pertek Rintek",
+    "slug": "jasa-ukl-upl-amdal-pertek-rintek",
+    "regulasi": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan peraturan turunannya",
+    "manfaat": [
+      "Memastikan kepatuhan perusahaan terhadap regulasi K3 yang berlaku",
+      "Mendapatkan dokumen dan perizinan K3 yang sah secara hukum",
+      "Mengurangi risiko sanksi administratif akibat ketidakpatuhan regulasi",
+      "Meningkatkan kepercayaan mitra bisnis dan klien terhadap standar operasional",
+      "Efisiensi waktu dan biaya dalam pengurusan perizinan K3"
+    ],
+    "output": "Dokumen resmi, sertifikat, atau izin operasional yang diterbitkan oleh instansi berwenang sesuai jenis layanan yang diajukan.",
+    "foto": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "fotoAlt": "Konsultasi dan audit K3 di lingkungan industri",
+    "proses": "Proses layanan dimulai dengan konsultasi kebutuhan, pengumpulan dokumen persyaratan, penyusunan dokumen teknis, pengajuan ke instansi terkait, dan pendampingan hingga terbitnya dokumen/izin. Durasi bervariasi 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen.",
+    "faq": [
+      {
+        "q": "Dokumen apa saja yang perlu disiapkan?",
+        "a": "Persyaratan dokumen bervariasi per jenis layanan. Tim kami akan memberikan checklist lengkap saat konsultasi awal."
+      },
+      {
+        "q": "Berapa lama proses pengurusan?",
+        "a": "Umumnya 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen yang disiapkan."
+      },
+      {
+        "q": "Apakah layanan ini berlaku di seluruh Indonesia?",
+        "a": "Ya, kami melayani pengurusan dokumen dan perizinan K3 untuk perusahaan di seluruh wilayah Indonesia."
+      },
+      {
+        "q": "Apakah ada garansi dokumen diterbitkan?",
+        "a": "Kami memastikan proses berjalan sesuai prosedur resmi. Penerbitan dokumen bergantung pada kelengkapan persyaratan dan keputusan instansi berwenang."
+      },
+      {
+        "q": "Bisakah layanan dilakukan secara remote?",
+        "a": "Sebagian besar proses dapat dilakukan secara remote. Kunjungan lapangan dilakukan jika diperlukan untuk inspeksi atau verifikasi."
+      }
+    ]
+  },
+  {
+    "kategori": "Jasa",
+    "nama": "Jasa Sertifikat Laik Fungsi (SLF) dan Nomor Induk Data Instalasi (NIDI)",
+    "slug": "jasa-sertifikat-laik-fungsi-slf-dan-nomor-induk-data-instalasi-nidi",
+    "regulasi": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan peraturan turunannya",
+    "manfaat": [
+      "Memastikan kepatuhan perusahaan terhadap regulasi K3 yang berlaku",
+      "Mendapatkan dokumen dan perizinan K3 yang sah secara hukum",
+      "Mengurangi risiko sanksi administratif akibat ketidakpatuhan regulasi",
+      "Meningkatkan kepercayaan mitra bisnis dan klien terhadap standar operasional",
+      "Efisiensi waktu dan biaya dalam pengurusan perizinan K3"
+    ],
+    "output": "Dokumen resmi, sertifikat, atau izin operasional yang diterbitkan oleh instansi berwenang sesuai jenis layanan yang diajukan.",
+    "foto": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "fotoAlt": "Konsultasi dan audit K3 di lingkungan industri",
+    "proses": "Proses layanan dimulai dengan konsultasi kebutuhan, pengumpulan dokumen persyaratan, penyusunan dokumen teknis, pengajuan ke instansi terkait, dan pendampingan hingga terbitnya dokumen/izin. Durasi bervariasi 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen.",
+    "faq": [
+      {
+        "q": "Dokumen apa saja yang perlu disiapkan?",
+        "a": "Persyaratan dokumen bervariasi per jenis layanan. Tim kami akan memberikan checklist lengkap saat konsultasi awal."
+      },
+      {
+        "q": "Berapa lama proses pengurusan?",
+        "a": "Umumnya 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen yang disiapkan."
+      },
+      {
+        "q": "Apakah layanan ini berlaku di seluruh Indonesia?",
+        "a": "Ya, kami melayani pengurusan dokumen dan perizinan K3 untuk perusahaan di seluruh wilayah Indonesia."
+      },
+      {
+        "q": "Apakah ada garansi dokumen diterbitkan?",
+        "a": "Kami memastikan proses berjalan sesuai prosedur resmi. Penerbitan dokumen bergantung pada kelengkapan persyaratan dan keputusan instansi berwenang."
+      },
+      {
+        "q": "Bisakah layanan dilakukan secara remote?",
+        "a": "Sebagian besar proses dapat dilakukan secara remote. Kunjungan lapangan dilakukan jika diperlukan untuk inspeksi atau verifikasi."
+      }
+    ]
+  },
+  {
+    "kategori": "Jasa",
+    "nama": "Jasa Sertifikat Laik Operasi (SLO)",
+    "slug": "jasa-sertifikat-laik-operasi-slo",
+    "regulasi": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan peraturan turunannya",
+    "manfaat": [
+      "Memastikan kepatuhan perusahaan terhadap regulasi K3 yang berlaku",
+      "Mendapatkan dokumen dan perizinan K3 yang sah secara hukum",
+      "Mengurangi risiko sanksi administratif akibat ketidakpatuhan regulasi",
+      "Meningkatkan kepercayaan mitra bisnis dan klien terhadap standar operasional",
+      "Efisiensi waktu dan biaya dalam pengurusan perizinan K3"
+    ],
+    "output": "Dokumen resmi, sertifikat, atau izin operasional yang diterbitkan oleh instansi berwenang sesuai jenis layanan yang diajukan.",
+    "foto": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "fotoAlt": "Konsultasi dan audit K3 di lingkungan industri",
+    "proses": "Proses layanan dimulai dengan konsultasi kebutuhan, pengumpulan dokumen persyaratan, penyusunan dokumen teknis, pengajuan ke instansi terkait, dan pendampingan hingga terbitnya dokumen/izin. Durasi bervariasi 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen.",
+    "faq": [
+      {
+        "q": "Dokumen apa saja yang perlu disiapkan?",
+        "a": "Persyaratan dokumen bervariasi per jenis layanan. Tim kami akan memberikan checklist lengkap saat konsultasi awal."
+      },
+      {
+        "q": "Berapa lama proses pengurusan?",
+        "a": "Umumnya 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen yang disiapkan."
+      },
+      {
+        "q": "Apakah layanan ini berlaku di seluruh Indonesia?",
+        "a": "Ya, kami melayani pengurusan dokumen dan perizinan K3 untuk perusahaan di seluruh wilayah Indonesia."
+      },
+      {
+        "q": "Apakah ada garansi dokumen diterbitkan?",
+        "a": "Kami memastikan proses berjalan sesuai prosedur resmi. Penerbitan dokumen bergantung pada kelengkapan persyaratan dan keputusan instansi berwenang."
+      },
+      {
+        "q": "Bisakah layanan dilakukan secara remote?",
+        "a": "Sebagian besar proses dapat dilakukan secara remote. Kunjungan lapangan dilakukan jika diperlukan untuk inspeksi atau verifikasi."
+      }
+    ]
+  },
+  {
+    "kategori": "Jasa",
+    "nama": "Jasa Riksa Uji SILO (Surat Izin Layak Operasi) SIA (Surat Izin Alat)",
+    "slug": "jasa-riksa-uji-silo-surat-izin-layak-operasi-sia-surat-izin-alat",
+    "regulasi": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan peraturan turunannya",
+    "manfaat": [
+      "Memastikan kepatuhan perusahaan terhadap regulasi K3 yang berlaku",
+      "Mendapatkan dokumen dan perizinan K3 yang sah secara hukum",
+      "Mengurangi risiko sanksi administratif akibat ketidakpatuhan regulasi",
+      "Meningkatkan kepercayaan mitra bisnis dan klien terhadap standar operasional",
+      "Efisiensi waktu dan biaya dalam pengurusan perizinan K3"
+    ],
+    "output": "Dokumen resmi, sertifikat, atau izin operasional yang diterbitkan oleh instansi berwenang sesuai jenis layanan yang diajukan.",
+    "foto": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "fotoAlt": "Konsultasi dan audit K3 di lingkungan industri",
+    "proses": "Proses layanan dimulai dengan konsultasi kebutuhan, pengumpulan dokumen persyaratan, penyusunan dokumen teknis, pengajuan ke instansi terkait, dan pendampingan hingga terbitnya dokumen/izin. Durasi bervariasi 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen.",
+    "faq": [
+      {
+        "q": "Dokumen apa saja yang perlu disiapkan?",
+        "a": "Persyaratan dokumen bervariasi per jenis layanan. Tim kami akan memberikan checklist lengkap saat konsultasi awal."
+      },
+      {
+        "q": "Berapa lama proses pengurusan?",
+        "a": "Umumnya 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen yang disiapkan."
+      },
+      {
+        "q": "Apakah layanan ini berlaku di seluruh Indonesia?",
+        "a": "Ya, kami melayani pengurusan dokumen dan perizinan K3 untuk perusahaan di seluruh wilayah Indonesia."
+      },
+      {
+        "q": "Apakah ada garansi dokumen diterbitkan?",
+        "a": "Kami memastikan proses berjalan sesuai prosedur resmi. Penerbitan dokumen bergantung pada kelengkapan persyaratan dan keputusan instansi berwenang."
+      },
+      {
+        "q": "Bisakah layanan dilakukan secara remote?",
+        "a": "Sebagian besar proses dapat dilakukan secara remote. Kunjungan lapangan dilakukan jika diperlukan untuk inspeksi atau verifikasi."
+      }
+    ]
+  },
+  {
+    "kategori": "Jasa",
+    "nama": "Jasa Transportasi & Pengelolaan Limbah B3",
+    "slug": "jasa-transportasi-dan-pengelolaan-limbah-b3",
+    "regulasi": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan peraturan turunannya",
+    "manfaat": [
+      "Memastikan kepatuhan perusahaan terhadap regulasi K3 yang berlaku",
+      "Mendapatkan dokumen dan perizinan K3 yang sah secara hukum",
+      "Mengurangi risiko sanksi administratif akibat ketidakpatuhan regulasi",
+      "Meningkatkan kepercayaan mitra bisnis dan klien terhadap standar operasional",
+      "Efisiensi waktu dan biaya dalam pengurusan perizinan K3"
+    ],
+    "output": "Dokumen resmi, sertifikat, atau izin operasional yang diterbitkan oleh instansi berwenang sesuai jenis layanan yang diajukan.",
+    "foto": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "fotoAlt": "Konsultasi dan audit K3 di lingkungan industri",
+    "proses": "Proses layanan dimulai dengan konsultasi kebutuhan, pengumpulan dokumen persyaratan, penyusunan dokumen teknis, pengajuan ke instansi terkait, dan pendampingan hingga terbitnya dokumen/izin. Durasi bervariasi 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen.",
+    "faq": [
+      {
+        "q": "Dokumen apa saja yang perlu disiapkan?",
+        "a": "Persyaratan dokumen bervariasi per jenis layanan. Tim kami akan memberikan checklist lengkap saat konsultasi awal."
+      },
+      {
+        "q": "Berapa lama proses pengurusan?",
+        "a": "Umumnya 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen yang disiapkan."
+      },
+      {
+        "q": "Apakah layanan ini berlaku di seluruh Indonesia?",
+        "a": "Ya, kami melayani pengurusan dokumen dan perizinan K3 untuk perusahaan di seluruh wilayah Indonesia."
+      },
+      {
+        "q": "Apakah ada garansi dokumen diterbitkan?",
+        "a": "Kami memastikan proses berjalan sesuai prosedur resmi. Penerbitan dokumen bergantung pada kelengkapan persyaratan dan keputusan instansi berwenang."
+      },
+      {
+        "q": "Bisakah layanan dilakukan secara remote?",
+        "a": "Sebagian besar proses dapat dilakukan secara remote. Kunjungan lapangan dilakukan jika diperlukan untuk inspeksi atau verifikasi."
+      }
+    ]
+  },
+  {
+    "kategori": "Jasa",
+    "nama": "Jasa Audit Keuangan Perusahaan",
+    "slug": "jasa-audit-keuangan-perusahaan",
+    "regulasi": "Undang-Undang No. 1 Tahun 1970 tentang Keselamatan Kerja dan peraturan turunannya",
+    "manfaat": [
+      "Memastikan kepatuhan perusahaan terhadap regulasi K3 yang berlaku",
+      "Mendapatkan dokumen dan perizinan K3 yang sah secara hukum",
+      "Mengurangi risiko sanksi administratif akibat ketidakpatuhan regulasi",
+      "Meningkatkan kepercayaan mitra bisnis dan klien terhadap standar operasional",
+      "Efisiensi waktu dan biaya dalam pengurusan perizinan K3"
+    ],
+    "output": "Dokumen resmi, sertifikat, atau izin operasional yang diterbitkan oleh instansi berwenang sesuai jenis layanan yang diajukan.",
+    "foto": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "fotoAlt": "Konsultasi dan audit K3 di lingkungan industri",
+    "proses": "Proses layanan dimulai dengan konsultasi kebutuhan, pengumpulan dokumen persyaratan, penyusunan dokumen teknis, pengajuan ke instansi terkait, dan pendampingan hingga terbitnya dokumen/izin. Durasi bervariasi 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen.",
+    "faq": [
+      {
+        "q": "Dokumen apa saja yang perlu disiapkan?",
+        "a": "Persyaratan dokumen bervariasi per jenis layanan. Tim kami akan memberikan checklist lengkap saat konsultasi awal."
+      },
+      {
+        "q": "Berapa lama proses pengurusan?",
+        "a": "Umumnya 2–8 minggu tergantung jenis layanan dan kelengkapan dokumen yang disiapkan."
+      },
+      {
+        "q": "Apakah layanan ini berlaku di seluruh Indonesia?",
+        "a": "Ya, kami melayani pengurusan dokumen dan perizinan K3 untuk perusahaan di seluruh wilayah Indonesia."
+      },
+      {
+        "q": "Apakah ada garansi dokumen diterbitkan?",
+        "a": "Kami memastikan proses berjalan sesuai prosedur resmi. Penerbitan dokumen bergantung pada kelengkapan persyaratan dan keputusan instansi berwenang."
+      },
+      {
+        "q": "Bisakah layanan dilakukan secara remote?",
+        "a": "Sebagian besar proses dapat dilakukan secara remote. Kunjungan lapangan dilakukan jika diperlukan untuk inspeksi atau verifikasi."
+      }
+    ]
+  }
+]

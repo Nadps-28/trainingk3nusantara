@@ -1,26 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap");
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --color-base: #1C1E1B;
+  --color-surface: #F2F3F1;
+  --color-accent: #F2B705;
+  --color-steel: #3B5166;
+  --color-text-on-base: #F2F3F1;
+  --color-text-on-surface: #1C1E1B;
+  --color-hairline: #D4D6D2;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: "IBM Plex Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-surface);
+  color: var(--color-base);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Focus visible — aksesibilitas keyboard */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+}
+
+/* Hairline utility */
+.hairline {
+  border-top: 1px solid var(--color-hairline);
+}
+
+/* Layanan item hover */
+.layanan-link:hover {
+  background: #f0f1ef;
+}
+.layanan-link-dark:hover {
+  background: #2e3129;
+}
+.kota-link {
+  border: 1px solid var(--color-hairline);
+  color: var(--color-steel);
+  background: white;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.kota-link:hover {
+  background: var(--color-steel);
+  color: white;
+  border-color: var(--color-steel);
+}
+
+/* Hero secondary button hover */
+.btn-ghost {
+  border: 1px solid #4a4f4c;
+  color: #b8bdb9;
+  text-decoration: none;
+  transition: border-color 0.15s, color 0.15s;
+}
+.btn-ghost:hover {
+  border-color: #9aa3a0;
+  color: #F2F3F1;
 }

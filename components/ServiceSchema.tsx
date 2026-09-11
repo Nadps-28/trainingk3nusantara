@@ -30,14 +30,14 @@ export default function ServiceSchema({
     "provider": {
       "@type": "Organization",
       "name": "TrainingPro K3",
-      "url": "https://trainingpro-k3.com",
+      "url": "https://trainingk3nusantara.id",
       "telephone": "+6208118500177",
       "areaServed": {
         "@type": "Country",
         "name": "Indonesia",
       },
     },
-    "url": `https://trainingpro-k3.com/kota/${slugKota}/${slugLayanan}`,
+    "url": `https://trainingk3nusantara.id/kota/${slugKota}/${slugLayanan}`,
     "inLanguage": "id-ID",
   };
 

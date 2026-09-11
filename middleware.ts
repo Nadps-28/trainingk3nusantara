@@ -14,10 +14,7 @@ export function middleware(request: NextRequest) {
     pathname.startsWith("/api") ||
     pathname.includes(".")
   ) {
-    const response = NextResponse.next();
-    response.headers.set("x-debug-mw", "excluded-path");
-    response.headers.set("x-debug-pathname", pathname);
-    return response;
+    return NextResponse.next();
   }
 
   // Get host header or hostname
@@ -53,30 +50,18 @@ export function middleware(request: NextRequest) {
     host === "localhost" ||
     host === "127.0.0.1"
   ) {
-    const response = NextResponse.next();
-    response.headers.set("x-debug-mw", "main-domain-or-no-subdomain");
-    response.headers.set("x-debug-host", host);
-    response.headers.set("x-debug-subdomain", subdomain || "none");
-    return response;
+    return NextResponse.next();
   }
 
   // Validate extracted city slug against data/kota.json
   // If slug is not found in data/kota.json, rewrite to 404 page
   if (!validKotaSlugs.has(subdomain)) {
-    const response = NextResponse.rewrite(new URL("/404", request.url));
-    response.headers.set("x-debug-mw", "invalid-subdomain");
-    response.headers.set("x-debug-host", host);
-    response.headers.set("x-debug-subdomain", subdomain || "none");
-    return response;
+    return NextResponse.rewrite(new URL("/404", request.url));
   }
 
   // If pathname already starts with /kota/${subdomain}, continue directly
   if (pathname.startsWith(`/kota/${subdomain}`)) {
-    const response = NextResponse.next();
-    response.headers.set("x-debug-mw", "already-kota-prefix");
-    response.headers.set("x-debug-host", host);
-    response.headers.set("x-debug-subdomain", subdomain || "none");
-    return response;
+    return NextResponse.next();
   }
 
   // Rewrite homepage of subdomain (/) to /kota/${subdomain}
@@ -84,12 +69,7 @@ export function middleware(request: NextRequest) {
   const targetPath =
     pathname === "/" ? `/kota/${subdomain}` : `/kota/${subdomain}${pathname}`;
 
-  const response = NextResponse.rewrite(new URL(targetPath, request.url));
-  response.headers.set("x-debug-mw", "rewritten");
-  response.headers.set("x-debug-host", host);
-  response.headers.set("x-debug-subdomain", subdomain || "none");
-  response.headers.set("x-debug-target", targetPath);
-  return response;
+  return NextResponse.rewrite(new URL(targetPath, request.url));
 }
 
 export const config = {

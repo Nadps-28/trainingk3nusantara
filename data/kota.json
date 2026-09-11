@@ -88,7 +88,8 @@
     "nama": "Bekasi",
     "lat": -6.2383,
     "lng": 106.9756,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": null
   },
   {
     "slug": "bogor",
@@ -109,14 +110,16 @@
     "nama": "Karawang",
     "lat": -6.3212,
     "lng": 107.3381,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": null
   },
   {
     "slug": "bandung",
     "nama": "Bandung",
     "lat": -6.9175,
     "lng": 107.6191,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": null
   },
   {
     "slug": "semarang",
@@ -158,7 +161,8 @@
     "nama": "Sumbawa",
     "lat": -8.4898,
     "lng": 117.4164,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Sumbawa"
   },
   {
     "slug": "balikpapan",
@@ -179,7 +183,8 @@
     "nama": "Kutai Kartanegara",
     "lat": -0.45,
     "lng": 117,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "banjarmasin",
@@ -207,7 +212,8 @@
     "nama": "Morowali",
     "lat": -2.9833,
     "lng": 121.65,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "gorontalo",
@@ -242,7 +248,8 @@
     "nama": "Mamuju",
     "lat": -2.6833,
     "lng": 118.8833,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": "Mamuju"
   },
   {
     "slug": "dumai",
@@ -263,7 +270,8 @@
     "nama": "Gresik",
     "lat": -7.1567,
     "lng": 112.6517,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Gresik"
   },
   {
     "slug": "cepu",
@@ -284,49 +292,56 @@
     "nama": "Muara Enim",
     "lat": -3.6667,
     "lng": 103.75,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Muara Enim"
   },
   {
     "slug": "subang",
     "nama": "Subang",
     "lat": -6.5667,
     "lng": 107.7667,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Subang"
   },
   {
     "slug": "sukabumi",
     "nama": "Sukabumi",
     "lat": -6.9167,
     "lng": 106.9167,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Sukabumi"
   },
   {
     "slug": "purwakarta",
     "nama": "Purwakarta",
     "lat": -6.55,
     "lng": 107.4333,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Purwakarta"
   },
   {
     "slug": "cirebon",
     "nama": "Cirebon",
     "lat": -6.7063,
     "lng": 108.557,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": null
   },
   {
     "slug": "cilacap",
     "nama": "Cilacap",
     "lat": -7.7167,
     "lng": 109.0167,
-    "cluster": "migas"
+    "cluster": "migas",
+    "kecamatan": null
   },
   {
     "slug": "batang",
     "nama": "Batang",
     "lat": -6.9167,
     "lng": 109.7333,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Batang"
   },
   {
     "slug": "solo",
@@ -354,35 +369,40 @@
     "nama": "Sidoarjo",
     "lat": -7.4478,
     "lng": 112.7183,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Sidoarjo"
   },
   {
     "slug": "banyuwangi",
     "nama": "Banyuwangi",
     "lat": -8.2192,
     "lng": 114.3691,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": "Banyuwangi"
   },
   {
     "slug": "kediri",
     "nama": "Kediri",
     "lat": -7.8167,
     "lng": 112.0167,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": null
   },
   {
     "slug": "lamongan",
     "nama": "Lamongan",
     "lat": -7.1167,
     "lng": 112.4167,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Lamongan"
   },
   {
     "slug": "tuban",
     "nama": "Tuban",
     "lat": -6.9,
     "lng": 112.05,
-    "cluster": "migas"
+    "cluster": "migas",
+    "kecamatan": "Tuban"
   },
   {
     "slug": "bengkulu",
@@ -410,14 +430,16 @@
     "nama": "Kolaka",
     "lat": -4.05,
     "lng": 121.5833,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Kolaka"
   },
   {
     "slug": "konawe",
     "nama": "Konawe",
     "lat": -3.9667,
     "lng": 122.5167,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Konawe"
   },
   {
     "slug": "palu",
@@ -431,7 +453,8 @@
     "nama": "Banggai",
     "lat": -1.5833,
     "lng": 123.4833,
-    "cluster": "migas"
+    "cluster": "migas",
+    "kecamatan": null
   },
   {
     "slug": "tenggarong",
@@ -452,7 +475,8 @@
     "nama": "Berau",
     "lat": 2.15,
     "lng": 117.4833,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "tarakan",
@@ -466,7 +490,8 @@
     "nama": "Bintan",
     "lat": 1.2,
     "lng": 104.5,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": null
   },
   {
     "slug": "jakarta-barat",
@@ -480,21 +505,24 @@
     "nama": "Majalengka",
     "lat": -6.8333,
     "lng": 108.2333,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Majalengka"
   },
   {
     "slug": "demak",
     "nama": "Demak",
     "lat": -6.8933,
     "lng": 110.6383,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Demak"
   },
   {
     "slug": "kendal",
     "nama": "Kendal",
     "lat": -6.9167,
     "lng": 110.2,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Kendal"
   },
   {
     "slug": "halmahera",
@@ -508,7 +536,8 @@
     "nama": "Kotabaru",
     "lat": -3.2833,
     "lng": 116.2,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "barito",
@@ -529,14 +558,16 @@
     "nama": "Kapuas",
     "lat": -3,
     "lng": 114.3833,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "malinau",
     "nama": "Malinau",
     "lat": 3.5833,
     "lng": 116.6333,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "bintuni",
@@ -564,7 +595,8 @@
     "nama": "Langkat",
     "lat": 3.7833,
     "lng": 98.35,
-    "cluster": "migas"
+    "cluster": "migas",
+    "kecamatan": null
   },
   {
     "slug": "binjai",
@@ -578,14 +610,16 @@
     "nama": "Deli Serdang",
     "lat": 3.55,
     "lng": 98.8333,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": null
   },
   {
     "slug": "asahan",
     "nama": "Asahan",
     "lat": 2.9833,
     "lng": 99.85,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": null
   },
   {
     "slug": "kisaran",
@@ -641,63 +675,72 @@
     "nama": "Melawi",
     "lat": -0.85,
     "lng": 111.4667,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "sambas",
     "nama": "Sambas",
     "lat": 1.3667,
     "lng": 109.3,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": "Sambas"
   },
   {
     "slug": "sanggau",
     "nama": "Sanggau",
     "lat": 0.1333,
     "lng": 110.5833,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "sintang",
     "nama": "Sintang",
     "lat": 0.0667,
     "lng": 111.5,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Sintang"
   },
   {
     "slug": "kapuas-hulu",
     "nama": "Kapuas Hulu",
     "lat": 0.8667,
     "lng": 112.9333,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "kayong-utara",
     "nama": "Kayong Utara",
     "lat": -1.1667,
     "lng": 110,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "bengkayang",
     "nama": "Bengkayang",
     "lat": 0.8,
     "lng": 109.6667,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Bengkayang"
   },
   {
     "slug": "mempawah",
     "nama": "Mempawah",
     "lat": 0.35,
     "lng": 108.9667,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "landak",
     "nama": "Landak",
     "lat": 0.3333,
     "lng": 109.9667,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "ngabang",
@@ -711,91 +754,104 @@
     "nama": "Sukamara",
     "lat": -2.7333,
     "lng": 111.1667,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Sukamara"
   },
   {
     "slug": "gunung-mas",
     "nama": "Gunung Mas",
     "lat": -1.3333,
     "lng": 113.5833,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "lamandau",
     "nama": "Lamandau",
     "lat": -2.0833,
     "lng": 111.5,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Lamandau"
   },
   {
     "slug": "katingan",
     "nama": "Katingan",
     "lat": -1.7,
     "lng": 113,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "murung-raya",
     "nama": "Murung Raya",
     "lat": -0.8333,
     "lng": 114.9,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "seruyan",
     "nama": "Seruyan",
     "lat": -2.5,
     "lng": 112.5,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "tana-tidung",
     "nama": "Tana Tidung",
     "lat": 3.5333,
     "lng": 117.25,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "nunukan",
     "nama": "Nunukan",
     "lat": 4.1333,
     "lng": 117.6667,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Nunukan"
   },
   {
     "slug": "bulungan",
     "nama": "Bulungan",
     "lat": 2.8333,
     "lng": 117.3833,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "kutai-timur",
     "nama": "Kutai Timur",
     "lat": 1.5,
     "lng": 117.5,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "kutai-barat",
     "nama": "Kutai Barat",
     "lat": -0.5,
     "lng": 115.5,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "paser",
     "nama": "Paser",
     "lat": -1.8333,
     "lng": 116,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "mahakam-ulu",
     "nama": "Mahakam Ulu",
     "lat": 0.5,
     "lng": 115.5,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "pulau-laut",
@@ -816,35 +872,40 @@
     "nama": "Hulu Sungai Selatan",
     "lat": -2.5833,
     "lng": 115.6333,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "hulu-sungai-tengah",
     "nama": "Hulu Sungai Tengah",
     "lat": -2.3333,
     "lng": 115.3333,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "banjar",
     "nama": "Banjar",
     "lat": -3.3333,
     "lng": 114.5833,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "balangan",
     "nama": "Balangan",
     "lat": -2.3333,
     "lng": 115.5,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "tapin",
     "nama": "Tapin",
     "lat": -3,
     "lng": 115,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "pandeglang",
@@ -865,91 +926,104 @@
     "nama": "Garut",
     "lat": -7.2167,
     "lng": 107.9,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": null
   },
   {
     "slug": "cianjur",
     "nama": "Cianjur",
     "lat": -6.8167,
     "lng": 107.1333,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Cianjur"
   },
   {
     "slug": "wonogiri",
     "nama": "Wonogiri",
     "lat": -7.8167,
     "lng": 110.9167,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Wonogiri"
   },
   {
     "slug": "kebumen",
     "nama": "Kebumen",
     "lat": -7.6667,
     "lng": 109.65,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": "Kebumen"
   },
   {
     "slug": "banjarnegara",
     "nama": "Banjarnegara",
     "lat": -7.3833,
     "lng": 109.6833,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": "Banjarnegara"
   },
   {
     "slug": "lumajang",
     "nama": "Lumajang",
     "lat": -8.1333,
     "lng": 113.2167,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Lumajang"
   },
   {
     "slug": "jember",
     "nama": "Jember",
     "lat": -8.1724,
     "lng": 113.7022,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "pacitan",
     "nama": "Pacitan",
     "lat": -8.1833,
     "lng": 111.1,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Pacitan"
   },
   {
     "slug": "dompu",
     "nama": "Dompu",
     "lat": -8.5333,
     "lng": 118.4667,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Dompu"
   },
   {
     "slug": "bima",
     "nama": "Bima",
     "lat": -8.4667,
     "lng": 118.7167,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "kupang",
     "nama": "Kupang",
     "lat": -10.1772,
     "lng": 123.607,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "ende",
     "nama": "Ende",
     "lat": -8.85,
     "lng": 121.6667,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": "Ende"
   },
   {
     "slug": "mimika",
     "nama": "Mimika",
     "lat": -4.55,
     "lng": 136.9,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "jayapura",
@@ -1103,7 +1177,8 @@
     "nama": "Musi Banyuasin",
     "lat": -2.8333,
     "lng": 103.8333,
-    "cluster": "migas"
+    "cluster": "migas",
+    "kecamatan": null
   },
   {
     "slug": "sekayu",
@@ -1117,14 +1192,16 @@
     "nama": "Dairi",
     "lat": 2.7833,
     "lng": 98.3167,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "karo",
     "nama": "Karo",
     "lat": 3.1167,
     "lng": 98.4833,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "tebing-tinggi",
@@ -1187,7 +1264,8 @@
     "nama": "Dharmasraya",
     "lat": -1.2167,
     "lng": 101.5,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "bukittinggi",
@@ -1208,14 +1286,16 @@
     "nama": "Lahat",
     "lat": -3.7833,
     "lng": 103.5333,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": "Lahat"
   },
   {
     "slug": "bengkalis",
     "nama": "Bengkalis",
     "lat": 1.4667,
     "lng": 102.1,
-    "cluster": "migas"
+    "cluster": "migas",
+    "kecamatan": "Bengkalis"
   },
   {
     "slug": "indragiri",
@@ -1229,14 +1309,16 @@
     "nama": "Kampar",
     "lat": 0.3333,
     "lng": 101.1667,
-    "cluster": "migas"
+    "cluster": "migas",
+    "kecamatan": "Kampar"
   },
   {
     "slug": "pelalawan",
     "nama": "Pelalawan",
     "lat": 0,
     "lng": 102.1667,
-    "cluster": "migas"
+    "cluster": "migas",
+    "kecamatan": "Pelalawan"
   },
   {
     "slug": "rokan",
@@ -1250,14 +1332,16 @@
     "nama": "Siak",
     "lat": 1.1667,
     "lng": 102,
-    "cluster": "migas"
+    "cluster": "migas",
+    "kecamatan": "Siak"
   },
   {
     "slug": "karimun",
     "nama": "Karimun",
     "lat": 1,
     "lng": 103.4,
-    "cluster": "maritim"
+    "cluster": "maritim",
+    "kecamatan": "Karimun"
   },
   {
     "slug": "pulau-matak",
@@ -1292,14 +1376,16 @@
     "nama": "Tasikmalaya",
     "lat": -7.3274,
     "lng": 108.2207,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": null
   },
   {
     "slug": "jombang",
     "nama": "Jombang",
     "lat": -7.55,
     "lng": 112.2333,
-    "cluster": "manufaktur"
+    "cluster": "manufaktur",
+    "kecamatan": "Jombang"
   },
   {
     "slug": "mataram",
@@ -1313,14 +1399,16 @@
     "nama": "Kubu Raya",
     "lat": -0.2667,
     "lng": 109.3333,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "sekadau",
     "nama": "Sekadau",
     "lat": 0.0167,
     "lng": 110.95,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "tabalong",
@@ -1334,7 +1422,8 @@
     "nama": "Tanah Bumbu",
     "lat": -3.5,
     "lng": 115.8333,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "penajam-paser-utara",
@@ -1348,28 +1437,32 @@
     "nama": "Buton",
     "lat": -5.5,
     "lng": 122.75,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "buol",
     "nama": "Buol",
     "lat": 1.2,
     "lng": 121.45,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "donggala",
     "nama": "Donggala",
     "lat": -0.6833,
     "lng": 119.7333,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "parigi-moutong",
     "nama": "Parigi Moutong",
     "lat": -0.6333,
     "lng": 120.1667,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "melak",
@@ -1397,21 +1490,24 @@
     "nama": "Majene",
     "lat": -3.5333,
     "lng": 118.9667,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "mamasa",
     "nama": "Mamasa",
     "lat": -2.9333,
     "lng": 119.3667,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": "Mamasa"
   },
   {
     "slug": "polewali-mandar",
     "nama": "Polewali Mandar",
     "lat": -3.4167,
     "lng": 119.3333,
-    "cluster": "umum"
+    "cluster": "umum",
+    "kecamatan": null
   },
   {
     "slug": "kabupaten-seram",
@@ -1425,28 +1521,32 @@
     "nama": "Kabupaten Halmahera Barat",
     "lat": 1.5,
     "lng": 127.5,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "halmahera-tengah",
     "nama": "Kabupaten Halmahera Tengah",
     "lat": 0.5,
     "lng": 128,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "halmahera-utara",
     "nama": "Kabupaten Halmahera Utara",
     "lat": 1.8333,
     "lng": 127.8333,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "halmahera-selatan",
     "nama": "Halmahera Selatan",
     "lat": -0.5,
     "lng": 127.5,
-    "cluster": "tambang"
+    "cluster": "tambang",
+    "kecamatan": null
   },
   {
     "slug": "weda",

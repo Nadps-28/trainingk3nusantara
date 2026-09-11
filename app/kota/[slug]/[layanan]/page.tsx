@@ -10,6 +10,7 @@ import ContactCTA from "@/components/ContactCTA";
 import Navbar from "@/components/Navbar";
 import ProsesDiagram from "@/components/ProsesDiagram";
 import ServiceSchema from "@/components/ServiceSchema";
+import { generateArticleTitle, generateArticleDescription } from "@/lib/seo";
 
 // ISR: generate semua kombinasi saat build, revalidate 1 hari
 export const dynamicParams = true;
@@ -75,8 +76,8 @@ export async function generateMetadata({
   const layanan = layananData.find((l) => l.slug === layananSlug) as Layanan | undefined;
   if (!kota || !layanan) return {};
 
-  const title = `${layanan.nama} di ${kota.nama} | TrainingPro K3`;
-  const description = `Layanan ${layanan.nama} di ${kota.nama} dan sekitarnya. Program ${layanan.kategori.toLowerCase()} K3 bersertifikat. Hubungi kami untuk konsultasi gratis.`;
+  const title = generateArticleTitle(layanan.nama, kota.nama);
+  const description = generateArticleDescription(layanan.nama, kota.nama);
 
   return {
     title,
@@ -165,7 +166,7 @@ export default async function LayananKotaPage({
             <div style={{ marginBottom: "36px", overflow: "hidden" }}>
               <img
                 src={layanan.foto ?? "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80"}
-                alt={layanan.fotoAlt ?? `${layanan.nama} di ${kota.nama}`}
+                alt={`${layanan.fotoAlt ?? `kegiatan ${layanan.nama}`} ${kota.nama}`}
                 style={{ width: "100%", height: "260px", objectFit: "cover", display: "block" }}
               />
             </div>
@@ -199,6 +200,9 @@ export default async function LayananKotaPage({
                 Keselamatan dan Kesehatan Kerja (K3) yang bertujuan meningkatkan kompetensi dan
                 kepatuhan terhadap standar keselamatan kerja yang berlaku di Indonesia.
               </p>
+              <h3 className="text-sm font-semibold mb-2 mt-4" style={{ color: "var(--color-text-on-surface)" }}>
+                Materi Pelatihan
+              </h3>
               <p className="text-sm leading-relaxed mb-3" style={{ color: "#3a3f3c" }}>
                 Program ini mengacu pada {layanan.regulasi ?? "regulasi Kemnaker RI yang berlaku"},
                 yang mewajibkan setiap perusahaan memastikan tenaga kerjanya memiliki kompetensi
@@ -332,12 +336,10 @@ export default async function LayananKotaPage({
 
             {/* 5. Proses — diagram */}
             <ProsesDiagram kategori={layanan.kategori as "Pelatihan" | "Jasa" | "Kajian"} />
-            <p className="text-sm leading-relaxed" style={{ color: "#3a3f3c", marginTop: "-20px", marginBottom: "36px" }}>
-              Untuk perusahaan di wilayah {kota.nama}, kami menyediakan opsi pelaksanaan
-              in-house di lokasi perusahaan maupun di tempat yang kami sediakan. Jadwal
-              dapat disesuaikan dengan kebutuhan operasional perusahaan Anda.
-            </p>
-            <p className="text-sm leading-relaxed" style={{ color: "#3a3f3c", marginTop: "-20px", marginBottom: "36px" }}>
+            <h3 className="text-sm font-semibold mb-2 mt-4" style={{ color: "var(--color-text-on-surface)" }}>
+              Jadwal & Pendaftaran
+            </h3>
+            <p className="text-sm leading-relaxed" style={{ color: "#3a3f3c", marginBottom: "36px" }}>
               Untuk perusahaan di wilayah {kota.nama}, kami menyediakan opsi pelaksanaan
               in-house di lokasi perusahaan maupun di tempat yang kami sediakan. Jadwal
               dapat disesuaikan dengan kebutuhan operasional perusahaan Anda.
@@ -348,7 +350,7 @@ export default async function LayananKotaPage({
             {/* 6. Output */}
             <section style={{ marginBottom: "36px" }}>
               <h2 className="text-lg font-bold mb-3" style={{ color: "var(--color-text-on-surface)" }}>
-                Sertifikasi dan Output
+                Syarat & Sertifikasi
               </h2>
               <div
                 className="p-5 text-sm leading-relaxed"

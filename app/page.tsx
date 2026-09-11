@@ -8,7 +8,7 @@ import FAQ from "@/components/FAQ";
 import ContactCTA from "@/components/ContactCTA";
 
 export const metadata: Metadata = {
-  title: "Training K3 Profesional | Pelatihan & Jasa K3 Bersertifikat Kemnaker RI",
+  title: "Pelatihan & Jasa K3 Bersertifikat Resmi Kemnaker RI",
   description:
     "Lembaga pelatihan dan konsultasi K3 terpercaya. Lebih dari 62 program, melayani perusahaan di seluruh Indonesia. Bersertifikat Kemnaker RI.",
 };
@@ -85,7 +85,7 @@ export default function HomePage() {
           <div className="flex-1 w-full" style={{ maxWidth: "420px" }}>
             <img
               src="https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&q=80"
-              alt="Instruktur K3 di lapangan"
+              alt="Instruktur K3 bersertifikat Kemnaker RI memberikan arahan keselamatan di lapangan"
               className="w-full object-cover"
               style={{ height: "260px", display: "block" }}
             />

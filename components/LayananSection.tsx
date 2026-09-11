@@ -1,5 +1,6 @@
 import Link from "next/link";
 import layananData from "@/data/layanan.json";
+import kotaData from "@/data/kota.json";
 
 type Kategori = "Pelatihan" | "Jasa" | "Kajian";
 
@@ -52,6 +53,9 @@ export default function LayananSection({ kategori, kotaSlug }: LayananSectionPro
   const textMuted = isJasa ? "#6b7370" : "#5a5f5c";
   const textFaint = isJasa ? "#4a4f4c" : "#a0a8a4";
 
+  const kotaObj = kotaSlug ? kotaData.find((k) => k.slug === kotaSlug) : null;
+  const imageAlt = kotaObj ? `${foto.alt} ${kotaObj.nama}` : foto.alt;
+
   return (
     <section id={kategori.toLowerCase()} style={{ background: bg, borderTop: `1px solid ${borderColor}` }}>
       <div className="max-w-5xl mx-auto px-6 py-14">
@@ -77,7 +81,7 @@ export default function LayananSection({ kategori, kotaSlug }: LayananSectionPro
         <div style={{ marginBottom: "24px", overflow: "hidden", height: "200px" }}>
           <img
             src={foto.url}
-            alt={foto.alt}
+            alt={imageAlt}
             style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center", display: "block" }}
           />
         </div>

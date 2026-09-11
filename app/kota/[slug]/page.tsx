@@ -11,6 +11,8 @@ import FAQ from "@/components/FAQ";
 import MapEmbed from "@/components/MapEmbed";
 import ContactCTA from "@/components/ContactCTA";
 
+import { generateKotaTitle, generateKotaDescription } from "@/lib/seo";
+
 export function generateStaticParams() {
   return kotaData.map((kota) => ({ slug: kota.slug }));
 }
@@ -23,9 +25,11 @@ export async function generateMetadata({
   const { slug } = await params;
   const kota = kotaData.find((k) => k.slug === slug);
   if (!kota) return {};
+  const title = generateKotaTitle(kota.nama);
+  const description = generateKotaDescription(kota.nama);
   return {
-    title: `Training K3 ${kota.nama} | Pelatihan & Jasa K3 Profesional`,
-    description: `Layanan pelatihan dan jasa K3 terpercaya di ${kota.nama} dan sekitarnya. Hubungi kami untuk konsultasi gratis.`,
+    title,
+    description,
   };
 }
 

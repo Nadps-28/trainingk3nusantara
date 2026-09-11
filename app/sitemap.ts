@@ -4,7 +4,7 @@ import layananData from "@/data/layanan.json";
 
 // Sitemap index — referensikan sitemap per kelompok
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = "https://trainingpro-k3.com"; // ganti dengan domain aktual
+  const base = "https://trainingk3nusantara.id"; // ganti dengan domain aktual
 
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: `${base}/`, lastModified: new Date(), changeFrequency: "weekly", priority: 1.0 },

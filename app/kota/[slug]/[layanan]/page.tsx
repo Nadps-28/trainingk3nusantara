@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import kotaData from "@/data/kota.json";
 import layananData from "@/data/layanan.json";
-import kecamatanData from "@/data/kecamatan.json";
+import { getKecamatanForKota } from "@/lib/wilayah";
 import Breadcrumb from "@/components/Breadcrumb";
 import MapEmbed from "@/components/MapEmbed";
 import ContactCTA from "@/components/ContactCTA";
@@ -100,7 +100,8 @@ export default async function LayananKotaPage({
 
   if (!kota || !layanan) notFound();
 
-  const kecamatan: string[] = (kecamatanData as Record<string, string[]>)[kota.slug] ?? [];
+  const kecamatanList = getKecamatanForKota(kota.slug);
+  const totalKelurahan = kecamatanList.reduce((acc, k) => acc + k.kelurahan_desa.length, 0);
   const cluster = kota.cluster ?? "umum";
   const clusterNama = clusterLabel[cluster] ?? clusterLabel.umum;
   const konteksWilayah = clusterKonteks[cluster] ?? clusterKonteks.umum;
@@ -272,60 +273,79 @@ export default async function LayananKotaPage({
 
             <div style={{ borderTop: "1px solid var(--color-hairline)", marginBottom: "36px" }} />
 
-            {/* 4b. Kecamatan */}
-            {kecamatan.length > 0 && (
+            {/* 4b. Kecamatan & Kelurahan/Desa Area Layanan */}
+            {kecamatanList.length > 0 && (
               <section style={{ marginBottom: "36px" }}>
                 {/* header row */}
                 <div
-                  className="flex items-center justify-between px-4 py-3 mb-0"
-                  style={{ background: "var(--color-base)", borderTop: "2px solid var(--color-steel)" }}
+                  className="flex flex-col sm:flex-row sm:items-center sm:justify-between px-5 py-4 gap-2 mb-0"
+                  style={{ background: "var(--color-base)", borderTop: "3px solid var(--color-steel)" }}
                 >
                   <div>
                     <p
                       style={{ fontFamily: "var(--font-mono)", fontSize: "10px", color: "var(--color-steel)", letterSpacing: "0.1em", marginBottom: "2px" }}
                     >
-                      AREA LAYANAN
+                      CAKUPAN AREA LAYANAN {layanan.nama.toUpperCase()}
                     </p>
                     <p className="text-sm font-semibold" style={{ color: "var(--color-text-on-base)" }}>
-                      {kota.nama} — {kecamatan.length} Kecamatan
+                      {kota.nama} — {kecamatanList.length} Kecamatan {totalKelurahan > 0 ? `· ${totalKelurahan} Kelurahan/Desa` : ""}
                     </p>
                   </div>
-                  <svg width="20" height="20" fill="none" stroke="var(--color-steel)" viewBox="0 0 24 24" style={{ opacity: 0.6 }}>
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5}
-                      d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                  </svg>
+                  <div className="flex items-center gap-2">
+                    <span
+                      className="text-xs px-3 py-1 font-mono"
+                      style={{ background: "#22251f", color: "var(--color-accent)", border: "1px solid #2e3129" }}
+                    >
+                      In-House Training & Jasa
+                    </span>
+                  </div>
                 </div>
 
                 {/* tile grid */}
                 <div
                   style={{
                     display: "grid",
-                    gridTemplateColumns: "repeat(auto-fill, minmax(150px, 1fr))",
+                    gridTemplateColumns: "repeat(auto-fill, minmax(220px, 1fr))",
                     gap: "1px",
                     background: "var(--color-hairline)",
                     border: "1px solid var(--color-hairline)",
                     borderTop: "none",
                   }}
                 >
-                  {kecamatan.map((kec, i) => (
+                  {kecamatanList.map((kec, i) => (
                     <div
-                      key={kec}
-                      className="flex items-center gap-2 px-3 py-2"
+                      key={kec.nama_kecamatan}
+                      className="p-4 flex flex-col justify-between"
                       style={{ background: i % 2 === 0 ? "white" : "#fafbfa" }}
                     >
-                      <span
-                        style={{
-                          width: "3px",
-                          height: "20px",
-                          background: "var(--color-steel)",
-                          opacity: 0.35,
-                          flexShrink: 0,
-                        }}
-                      />
-                      <span className="text-xs" style={{ color: "#3a3f3c", lineHeight: 1.3 }}>
-                        {kec}
-                      </span>
+                      <div>
+                        <div className="flex items-center justify-between mb-1.5">
+                          <span className="font-semibold text-xs text-gray-900">
+                            Kec. {kec.nama_kecamatan}
+                          </span>
+                          {kec.kelurahan_desa.length > 0 && (
+                            <span className="text-[10px] text-gray-500 font-mono bg-gray-100 px-1.5 py-0.5 rounded">
+                              {kec.kelurahan_desa.length} Kel/Desa
+                            </span>
+                          )}
+                        </div>
+                        {kec.kelurahan_desa.length > 0 ? (
+                          <div className="flex flex-wrap gap-1 mt-2">
+                            {kec.kelurahan_desa.map((kel) => (
+                              <span
+                                key={kel}
+                                className="text-[11px] px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded border border-gray-200"
+                              >
+                                {kel}
+                              </span>
+                            ))}
+                          </div>
+                        ) : (
+                          <p className="text-[11px] text-gray-500 italic mt-1">
+                            Seluruh kelurahan & desa di {kec.nama_kecamatan}
+                          </p>
+                        )}
+                      </div>
                     </div>
                   ))}
                 </div>

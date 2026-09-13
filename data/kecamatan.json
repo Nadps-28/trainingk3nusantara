@@ -2606,9 +2606,7 @@
         "Marsegu",
         "Segumbang",
         "Sukamaju",
-        "Danau Indah",
-        "Maju Bersama",
-        "Polewali Marajae"
+        "Danau Indah"
       ]
     },
     {
@@ -2622,9 +2620,7 @@
         "Plajau",
         "Sarigadung",
         "Sejahtera",
-        "Simpang Empat",
-        "Hidayat Makmur",
-        "Gunung Tinggi"
+        "Simpang Empat"
       ]
     },
     {
@@ -2639,21 +2635,7 @@
         "Pejala",
         "Pesisir Pantai",
         "Salambung",
-        "Tutuhi",
-        "Karya Bakti",
-        "Pasar Baru"
-      ]
-    },
-    {
-      "nama_kecamatan": "Satui",
-      "kelurahan_desa": [
-        "Sungai Danau",
-        "Satui Barat",
-        "Satui Timur",
-        "Makmur Jaya",
-        "Sekapung",
-        "Wonorejo",
-        "Jombang"
+        "Tutuhi"
       ]
     }
   ],
@@ -2666,9 +2648,7 @@
         "Marsegu",
         "Segumbang",
         "Sukamaju",
-        "Danau Indah",
-        "Maju Bersama",
-        "Polewali Marajae"
+        "Danau Indah"
       ]
     },
     {
@@ -2682,9 +2662,7 @@
         "Plajau",
         "Sarigadung",
         "Sejahtera",
-        "Simpang Empat",
-        "Hidayat Makmur",
-        "Gunung Tinggi"
+        "Simpang Empat"
       ]
     },
     {
@@ -2699,21 +2677,7 @@
         "Pejala",
         "Pesisir Pantai",
         "Salambung",
-        "Tutuhi",
-        "Karya Bakti",
-        "Pasar Baru"
-      ]
-    },
-    {
-      "nama_kecamatan": "Satui",
-      "kelurahan_desa": [
-        "Sungai Danau",
-        "Satui Barat",
-        "Satui Timur",
-        "Makmur Jaya",
-        "Sekapung",
-        "Wonorejo",
-        "Jombang"
+        "Tutuhi"
       ]
     }
   ],
@@ -2730,9 +2694,7 @@
         "Panji",
         "Sukarame",
         "Timbau",
-        "Timbau Hulu",
-        "Jahab",
-        "Maluhu"
+        "Timbau Hulu"
       ]
     },
     {
@@ -2748,7 +2710,7 @@
         "Manunggal Jaya",
         "Perjiwa",
         "Separi",
-        "Sukamaju",
+        "Sukamai",
         "Teluk Dalam"
       ]
     },
@@ -2825,17 +2787,6 @@
         "Tanjung Harapan",
         "Wonotirto"
       ]
-    },
-    {
-      "nama_kecamatan": "Muara Jawa",
-      "kelurahan_desa": [
-        "Muara Jawa Kota",
-        "Muara Jawa Ilir",
-        "Muara Jawa Ulu",
-        "Muara Jawa Tengah",
-        "Dondang",
-        "Teluk Dalam"
-      ]
     }
   ],
   "sangatta": [
@@ -2854,8 +2805,7 @@
         "Sangatta Selatan",
         "Singa Molek",
         "Sangga Langit",
-        "Teluk Singkama",
-        "Pinang Tinggi"
+        "Teluk Singkama"
       ]
     },
     {
@@ -2871,26 +2821,6 @@
         "Sepaso Timur",
         "Tebangan Wan",
         "Tepian Langsat"
-      ]
-    },
-    {
-      "nama_kecamatan": "Kaliorang",
-      "kelurahan_desa": [
-        "Bukit Harapan",
-        "Kaliorang",
-        "Selangkau",
-        "Citra Manunggal Jaya",
-        "Bangun Jaya"
-      ]
-    },
-    {
-      "nama_kecamatan": "Muara Wahau",
-      "kelurahan_desa": [
-        "Muara Wahau",
-        "Nehes Liah Bing",
-        "Wahlau",
-        "Kombeng",
-        "Jabdan"
       ]
     }
   ],
@@ -2898,45 +2828,10 @@
     {
       "nama_kecamatan": "Sangatta Utara",
       "kelurahan_desa": [
-        "Teluk Lingga",
-        "Singa Gawa",
         "Sangatta Utara",
-        "Swarga Bara"
-      ]
-    },
-    {
-      "nama_kecamatan": "Sangatta Selatan",
-      "kelurahan_desa": [
-        "Sangatta Selatan",
-        "Singa Molek",
-        "Sangga Langit",
-        "Teluk Singkama",
-        "Pinang Tinggi"
-      ]
-    },
-    {
-      "nama_kecamatan": "Bengalon",
-      "kelurahan_desa": [
-        "Kerayaan",
-        "Muara Bengalon",
-        "Pulau Miang",
-        "Sebangkur",
-        "Sepaso",
-        "Sepaso Barat",
-        "Sepaso Selatan",
-        "Sepaso Timur",
-        "Tebangan Wan",
-        "Tepian Langsat"
-      ]
-    },
-    {
-      "nama_kecamatan": "Kaliorang",
-      "kelurahan_desa": [
-        "Bukit Harapan",
-        "Kaliorang",
-        "Selangkau",
-        "Citra Manunggal Jaya",
-        "Bangun Jaya"
+        "Teluk Lingga",
+        "Swarga Bara",
+        "Singa Gawa"
       ]
     },
     {
@@ -2972,7 +2867,7 @@
         "Pegat Bukur",
         "Pesayan",
         "Sei Bebanir Bangun",
-        "Suka Maju",
+        "Sukai Maju",
         "Tanjung Perangat"
       ]
     },
@@ -3000,15 +2895,6 @@
         "Labanan Makarti",
         "Labanan Salo"
       ]
-    },
-    {
-      "nama_kecamatan": "Pulau Derawan",
-      "kelurahan_desa": [
-        "Pulau Derawan",
-        "Kasai",
-        "Pegat Batumbuk",
-        "Teluk Semanting"
-      ]
     }
   ],
   "tenggarong": [
@@ -3024,9 +2910,7 @@
         "Panji",
         "Sukarame",
         "Timbau",
-        "Timbau Hulu",
-        "Jahab",
-        "Maluhu"
+        "Timbau Hulu"
       ]
     }
   ],
@@ -3041,8 +2925,7 @@
         "Kelakik",
         "Kenual",
         "Tanjung Tengang",
-        "Batu Nanta",
-        "Nusa Serang"
+        "Batu Nanta"
       ]
     },
     {
@@ -3053,8 +2936,7 @@
         "Suka Maju",
         "Tanjung Aruk",
         "Melawi Kiri",
-        "Mandalay",
-        "Engkelili"
+        "Mandalay"
       ]
     },
     {
@@ -3064,17 +2946,7 @@
         "Nanga Kelawai",
         "Mungguk Permai",
         "Bikang",
-        "Tanjung Harapan",
-        "Sungai Nyirak"
-      ]
-    },
-    {
-      "nama_kecamatan": "Ella Hilir",
-      "kelurahan_desa": [
-        "Nanga Ella Hilir",
-        "Popai",
-        "Pelempai Jaya",
-        "Lengkenat"
+        "Tanjung Harapan"
       ]
     }
   ],
@@ -3090,7 +2962,7 @@
         "Lubis",
         "Pasar Melayu",
         "Pendawan",
-        "Sungai Garam",
+        "Sei/Sungai Garam",
         "Semayong",
         "Sumber Harapan",
         "Tanjung Mekar",
@@ -3125,16 +2997,6 @@
         "Sempalai",
         "Sert Sema"
       ]
-    },
-    {
-      "nama_kecamatan": "Teluk Keramat",
-      "kelurahan_desa": [
-        "Sekura",
-        "Sungai Kumpai",
-        "Tri Mandayan",
-        "Pipitteja",
-        "Kubutan"
-      ]
     }
   ],
   "sanggau": [
@@ -3152,7 +3014,7 @@
         "Belangin",
         "Engkros",
         "Nanga Biang",
-        "Sungai Batu"
+        "Sungei Batu"
       ]
     },
     {
@@ -3166,7 +3028,7 @@
         "Pedalaman",
         "Subah",
         "Tebang Benua",
-        "Pulau Tayan Utara"
+        "Wilayah Pulau Tayan"
       ]
     },
     {
@@ -3177,15 +3039,6 @@
         "Pala Pasang",
         "Semanget",
         "Suruh Tawang"
-      ]
-    },
-    {
-      "nama_kecamatan": "Parindu",
-      "kelurahan_desa": [
-        "Pusat Damai",
-        "Bodok",
-        "Marimani",
-        "Pandu Raya"
       ]
     }
   ],
@@ -3229,7 +3082,7 @@
         "Manter",
         "Nanga Jetak",
         "Sarai",
-        "Sungai Ringin"
+        "Sei/Sungai Ringin"
       ]
     }
   ],
@@ -3317,15 +3170,6 @@
         "Pulau Kumbang",
         "Sungai Mata-Mata"
       ]
-    },
-    {
-      "nama_kecamatan": "Teluk Batang",
-      "kelurahan_desa": [
-        "Teluk Batang",
-        "Teluk Batang Selatan",
-        "Alahan",
-        "Mas Bangbangun"
-      ]
     }
   ],
   "bengkayang": [
@@ -3347,15 +3191,6 @@
         "Sungai Jaga A",
         "Sungai Jaga B",
         "Kabulik"
-      ]
-    },
-    {
-      "nama_kecamatan": "Samalantan",
-      "kelurahan_desa": [
-        "Samalantan",
-        "Marunsu",
-        "Sababar",
-        "Tuhu Jaya"
       ]
     }
   ],
@@ -3379,20 +3214,10 @@
       "kelurahan_desa": [
         "Antibar",
         "Pasir Palembang",
-        "Sungai Kitang",
-        "Sungai Bakau Kecil",
+        "Sei/Sungai Kitang",
+        "Sei/Sungai Bakau Kecil",
         "Parit Banjar",
-        "Sungai Pinyuh"
-      ]
-    },
-    {
-      "nama_kecamatan": "Sungai Pinyuh",
-      "kelurahan_desa": [
-        "Sungai Pinyuh",
-        "Sungai Batang",
-        "Peniraman",
-        "Nusapati",
-        "Galang"
+        "Sei/Sungai Pinyuh"
       ]
     }
   ],
@@ -3410,24 +3235,6 @@
         "Muara Ilir",
         "Sebangki"
       ]
-    },
-    {
-      "nama_kecamatan": "Menyuke",
-      "kelurahan_desa": [
-        "Darit",
-        "Anik Dingir",
-        "Songga",
-        "Ansang"
-      ]
-    },
-    {
-      "nama_kecamatan": "Mandor",
-      "kelurahan_desa": [
-        "Mandor",
-        "Kayu Tanam",
-        "Salatiga",
-        "Simpang Pasir"
-      ]
     }
   ],
   "ngabang": [
@@ -3440,8 +3247,7 @@
         "Amboyo Inti",
         "Amboyo Selatan",
         "Mungguk",
-        "Raja",
-        "Tebedak"
+        "Raja"
       ]
     }
   ],
@@ -3466,14 +3272,6 @@
         "Bangun Jaya",
         "Pembuang Hulu",
         "Air Upas"
-      ]
-    },
-    {
-      "nama_kecamatan": "Jelai",
-      "kelurahan_desa": [
-        "Kuala Jelai",
-        "Pulau Lutu",
-        "Sungai Raing"
       ]
     }
   ],
@@ -3524,14 +3322,6 @@
         "Bina Bhakti",
         "Mekarsari",
         "Tri Mulya"
-      ]
-    },
-    {
-      "nama_kecamatan": "Delang",
-      "kelurahan_desa": [
-        "Kudangan",
-        "Sepahan",
-        "Sekombang"
       ]
     }
   ],
@@ -3597,20 +3387,12 @@
       ]
     },
     {
-      "nama_kecamatan": "Danau Sembuluh",
+      "nama_kecamatan": "Danau Sembintang",
       "kelurahan_desa": [
         "Telaga Pulang",
         "Sembatu",
         "Suka Maju",
         "Terawan"
-      ]
-    },
-    {
-      "nama_kecamatan": "Hanau",
-      "kelurahan_desa": [
-        "Pembuang Hulu I",
-        "Pembuang Hulu II",
-        "Parang Batang"
       ]
     }
   ],
@@ -3634,14 +3416,6 @@
         "Bebatu",
         "Bandung",
         "Bujok"
-      ]
-    },
-    {
-      "nama_kecamatan": "Tana Lia",
-      "kelurahan_desa": [
-        "Tanah Merah",
-        "Sambungan",
-        "Sambungan Selatan"
       ]
     }
   ],
@@ -3673,14 +3447,6 @@
         "Sei Pancang",
         "Padaidi"
       ]
-    },
-    {
-      "nama_kecamatan": "Sebatik Utara",
-      "kelurahan_desa": [
-        "Sebatik Utara",
-        "Pancang",
-        "Lapri"
-      ]
     }
   ],
   "bulungan": [
@@ -3691,8 +3457,7 @@
         "Tanjung Selor Timur",
         "Tanjung Selor Hulu",
         "Jenggala",
-        "Tanjung Palas Harapan",
-        "Apung"
+        "Tanjung Palas Harapan"
       ]
     },
     {
@@ -3701,8 +3466,7 @@
         "Tanjung Palas Hilir",
         "Tanjung Palas Tengah",
         "Tanjung Palas Hulu",
-        "Karang Anyar",
-        "Antutan"
+        "Karang Anyar"
       ]
     }
   ],
@@ -3714,8 +3478,7 @@
         "Simpang Raya",
         "Busur",
         "Gepura",
-        "Sumber Bangun",
-        "Belempung Ulaq"
+        "Sumber Bangun"
       ]
     },
     {
@@ -3724,8 +3487,7 @@
         "Melak Ilir",
         "Melak Ulu",
         "Empas",
-        "Muara Benangaq",
-        "Muara Bunyut"
+        "Muara Benangaq"
       ]
     }
   ],
@@ -3737,8 +3499,7 @@
         "Simpang Raya",
         "Busur",
         "Gepura",
-        "Sumber Bangun",
-        "Belempung Ulaq"
+        "Sumber Bangun"
       ]
     },
     {
@@ -3747,8 +3508,7 @@
         "Melak Ilir",
         "Melak Ulu",
         "Empas",
-        "Muara Benangaq",
-        "Muara Bunyut"
+        "Muara Benangaq"
       ]
     }
   ],
@@ -3766,22 +3526,12 @@
       ]
     },
     {
-      "nama_kecamatan": "Kuaro",
+      "nama_kecamatan": "Kuari",
       "kelurahan_desa": [
-        "Kuaro",
+        "Kuari",
         "Modang",
         "Songka",
-        "Harapan Masa",
-        "Pasir Mayang"
-      ]
-    },
-    {
-      "nama_kecamatan": "Batu Sopang",
-      "kelurahan_desa": [
-        "Batu Kajang",
-        "Kasungai",
-        "Songka",
-        "Samurangau"
+        "Harapan Masa"
       ]
     }
   ],
@@ -3815,8 +3565,7 @@
         "Dirgahayu",
         "Stagen",
         "Sebelimbingan",
-        "Rampa",
-        "Batuah"
+        "Rampa"
       ]
     },
     {
@@ -3826,14 +3575,6 @@
         "Tanjung Lalak Utara",
         "Tanjung Lalak Selatan",
         "Teluk Sirih"
-      ]
-    },
-    {
-      "nama_kecamatan": "Pulau Laut Sigam",
-      "kelurahan_desa": [
-        "Baharu Selatan",
-        "Sebatung",
-        "Gunung Sari"
       ]
     }
   ],
@@ -3846,8 +3587,7 @@
         "Dirgahayu",
         "Stagen",
         "Sebelimbingan",
-        "Rampa",
-        "Batuah"
+        "Rampa"
       ]
     },
     {
@@ -3857,14 +3597,6 @@
         "Tanjung Lalak Utara",
         "Tanjung Lalak Selatan",
         "Teluk Sirih"
-      ]
-    },
-    {
-      "nama_kecamatan": "Pulau Laut Sigam",
-      "kelurahan_desa": [
-        "Baharu Selatan",
-        "Sebatung",
-        "Gunung Sari"
       ]
     }
   ],
@@ -3877,8 +3609,7 @@
         "Kandangan Utara",
         "Jambu Hilir",
         "Gambah Luar",
-        "Tibung Raya",
-        "Amawang Kiri"
+        "Tibung Raya"
       ]
     },
     {
@@ -3888,8 +3619,7 @@
         "Bayanan",
         "Pandangan",
         "Tumbukan Banyu",
-        "Habirau",
-        "Samuda"
+        "Habirau"
       ]
     }
   ],
@@ -3928,8 +3658,7 @@
         "Cindai Alus",
         "Pasayangan",
         "Tunggul Hitam",
-        "Pesayangan",
-        "Banyu Irang"
+        "Pesayangan"
       ]
     },
     {
@@ -3941,15 +3670,6 @@
         "Kayu Bawang",
         "Malintang",
         "Tambak Sirang"
-      ]
-    },
-    {
-      "nama_kecamatan": "Kertak Hanyar",
-      "kelurahan_desa": [
-        "Manarap Lama",
-        "Kertak Hanyar",
-        "Pemurus",
-        "Mandarawan"
       ]
     }
   ],
@@ -4035,8 +3755,7 @@
         "Gersik",
         "Jenebora",
         "Nenang",
-        "Sungai Ibu",
-        "Girimukti"
+        "Sungei Ibu"
       ]
     },
     {
@@ -4047,16 +3766,7 @@
         "Maridan",
         "Mentawir",
         "Suka Raja",
-        "Tengin Baru",
-        "Benuo Taka"
-      ]
-    },
-    {
-      "nama_kecamatan": "Waru",
-      "kelurahan_desa": [
-        "Waru",
-        "Bangun Mulya",
-        "Sesumpu"
+        "Tengin Baru"
       ]
     }
   ],
@@ -4081,14 +3791,6 @@
         "Sungai Rengas",
         "Sungai Belidak",
         "Kalimas"
-      ]
-    },
-    {
-      "nama_kecamatan": "Sungai Ambawang",
-      "kelurahan_desa": [
-        "Sungai Ambawang",
-        "Lingga",
-        "Korek"
       ]
     }
   ],
@@ -4117,7 +3819,7 @@
       ]
     },
     {
-      "nama_kecamatan": "Cipeundeuy",
+      "nama_kecamatan": "Cipandeuy",
       "kelurahan_desa": [
         "Cipeundeuy",
         "Batuangsana",
@@ -4125,15 +3827,6 @@
         "Lengkong",
         "Sawangan",
         "Sukahurip"
-      ]
-    },
-    {
-      "nama_kecamatan": "Pamanukan",
-      "kelurahan_desa": [
-        "Pamanukan",
-        "Pamanukan Sebrang",
-        "Lengkong",
-        "Rancasari"
       ]
     }
   ],
@@ -4170,15 +3863,6 @@
         "Cikumpay",
         "Cimahi",
         "Cirende"
-      ]
-    },
-    {
-      "nama_kecamatan": "Jatiluhur",
-      "kelurahan_desa": [
-        "Jatiluhur",
-        "Cikao Bandung",
-        "Buleud",
-        "Cisalada"
       ]
     }
   ],
@@ -4309,16 +3993,6 @@
         "Larangan",
         "Sumorame"
       ]
-    },
-    {
-      "nama_kecamatan": "Krian",
-      "kelurahan_desa": [
-        "Krian",
-        "Sidomulyo",
-        "Tropodo",
-        "Kraton",
-        "Jatikalang"
-      ]
     }
   ],
   "banyuwangi": [
@@ -4341,7 +4015,7 @@
       "nama_kecamatan": "Kalipuro",
       "kelurahan_desa": [
         "Kalipuro",
-        "Ketapang",
+        "Ketanapangan",
         "Bulusan",
         "Gintangan",
         "Pesanggaran",
@@ -4390,15 +4064,6 @@
         "Sogo",
         "Sumurgenuk"
       ]
-    },
-    {
-      "nama_kecamatan": "Paciran",
-      "kelurahan_desa": [
-        "Paciran",
-        "Tunggul",
-        "Weru",
-        "Kandangsemangkon"
-      ]
     }
   ],
   "tuban": [
@@ -4428,15 +4093,6 @@
         "Socorejo",
         "Suwalan",
         "Tasikharjo"
-      ]
-    },
-    {
-      "nama_kecamatan": "Semanding",
-      "kelurahan_desa": [
-        "Semanding",
-        "Karang",
-        "Gedongombo",
-        "Tegalagung"
       ]
     }
   ],
@@ -4500,15 +4156,6 @@
         "Sumberejo",
         "Wonosari"
       ]
-    },
-    {
-      "nama_kecamatan": "Boja",
-      "kelurahan_desa": [
-        "Boja",
-        "Campurejo",
-        "Meteseh",
-        "Bebengan"
-      ]
     }
   ],
   "pandeglang": [
@@ -4535,15 +4182,6 @@
         "Teluk",
         "Caringin"
       ]
-    },
-    {
-      "nama_kecamatan": "Majasari",
-      "kelurahan_desa": [
-        "Saruni",
-        "Sukaratu",
-        "Cilaja",
-        "Karaton"
-      ]
     }
   ],
   "lebak": [
@@ -4565,7 +4203,7 @@
       "kelurahan_desa": [
         "Cibadak",
         "Asem",
-        "Bojong Cae",
+        "Bo Jong Cae",
         "Cisalopa",
         "Kencana",
         "Malabar",
@@ -4643,14 +4281,6 @@
         "Batulawang",
         "Palasari",
         "Sindanglaya"
-      ]
-    },
-    {
-      "nama_kecamatan": "Karangtengah",
-      "kelurahan_desa": [
-        "Hegarmanah",
-        "Sukataris",
-        "Maleber"
       ]
     }
   ],
@@ -4741,7 +4371,8 @@
         "Karangtengah",
         "Pasurenan",
         "Pekasiran",
-        "Sumberrejo"
+        "Sumberrejo",
+        "Sumberejo"
       ]
     }
   ],
@@ -4897,18 +4528,6 @@
         "Sumberpitu",
         "Tanggungan"
       ]
-    },
-    {
-      "nama_kecamatan": "Blora",
-      "kelurahan_desa": [
-        "Blora",
-        "Jetis",
-        "Kauman",
-        "Kedungjenar",
-        "Mlangsen",
-        "Tempelan",
-        "Bangkle"
-      ]
     }
   ],
   "pulau-madura": [
@@ -5048,16 +4667,6 @@
         "Lesung Batang",
         "Parit",
         "Paal Satu"
-      ]
-    },
-    {
-      "nama_kecamatan": "Sungailiat (Bangka)",
-      "kelurahan_desa": [
-        "Sungai Liat",
-        "Sinar Baru",
-        "Kuday",
-        "Parit Padang",
-        "Sri Menanti"
       ]
     }
   ],
@@ -5294,14 +4903,6 @@
         "Kalangan",
         "Luhut",
         "Pasar Baru"
-      ]
-    },
-    {
-      "nama_kecamatan": "Sipirok (Tapanuli Selatan)",
-      "kelurahan_desa": [
-        "Sipirok Godang",
-        "Pasar Sipirok",
-        "Huta Raja"
       ]
     }
   ],
@@ -6004,226 +5605,116 @@
   ],
   "halmahera": [
     {
-      "nama_kecamatan": "Jailolo (Halmahera Barat)",
-      "kelurahan_desa": [
-        "Jailolo",
-        "Gufasa",
-        "Soakonora",
-        "Hapu",
-        "Tuada"
-      ]
-    },
-    {
-      "nama_kecamatan": "Tobelo (Halmahera Utara)",
-      "kelurahan_desa": [
-        "Tobelo Kota",
-        "Gura",
-        "Gitu",
-        "Kakara",
-        "Rawamangun",
-        "Wari"
-      ]
-    },
-    {
-      "nama_kecamatan": "Weda (Halmahera Tengah)",
+      "nama_kecamatan": "Weda",
       "kelurahan_desa": [
         "Weda",
         "Fitu",
         "Goeng",
         "Kobe",
-        "Lelilef Sawai",
-        "Lelilef Waibulen",
-        "Nurweda"
+        "Nurweda",
+        "Were"
       ]
     },
     {
-      "nama_kecamatan": "Labuha (Halmahera Selatan)",
+      "nama_kecamatan": "Weda Tengah",
       "kelurahan_desa": [
-        "Labuha",
-        "Amasing Kota",
-        "Amasing Kali",
-        "Bacan",
-        "Mandaong"
+        "Lelilef Sawai",
+        "Lelilef Waibulen",
+        "Kobe Kote",
+        "Lokai",
+        "Wairoro"
       ]
     }
   ],
   "halmahera-barat": [
     {
-      "nama_kecamatan": "Jailolo (Halmahera Barat)",
-      "kelurahan_desa": [
-        "Jailolo",
-        "Gufasa",
-        "Soakonora",
-        "Hapu",
-        "Tuada"
-      ]
-    },
-    {
-      "nama_kecamatan": "Tobelo (Halmahera Utara)",
-      "kelurahan_desa": [
-        "Tobelo Kota",
-        "Gura",
-        "Gitu",
-        "Kakara",
-        "Rawamangun",
-        "Wari"
-      ]
-    },
-    {
-      "nama_kecamatan": "Weda (Halmahera Tengah)",
+      "nama_kecamatan": "Weda",
       "kelurahan_desa": [
         "Weda",
         "Fitu",
         "Goeng",
         "Kobe",
-        "Lelilef Sawai",
-        "Lelilef Waibulen",
-        "Nurweda"
+        "Nurweda",
+        "Were"
       ]
     },
     {
-      "nama_kecamatan": "Labuha (Halmahera Selatan)",
+      "nama_kecamatan": "Weda Tengah",
       "kelurahan_desa": [
-        "Labuha",
-        "Amasing Kota",
-        "Amasing Kali",
-        "Bacan",
-        "Mandaong"
+        "Lelilef Sawai",
+        "Lelilef Waibulen",
+        "Kobe Kote",
+        "Lokai",
+        "Wairoro"
       ]
     }
   ],
   "halmahera-tengah": [
     {
-      "nama_kecamatan": "Jailolo (Halmahera Barat)",
-      "kelurahan_desa": [
-        "Jailolo",
-        "Gufasa",
-        "Soakonora",
-        "Hapu",
-        "Tuada"
-      ]
-    },
-    {
-      "nama_kecamatan": "Tobelo (Halmahera Utara)",
-      "kelurahan_desa": [
-        "Tobelo Kota",
-        "Gura",
-        "Gitu",
-        "Kakara",
-        "Rawamangun",
-        "Wari"
-      ]
-    },
-    {
-      "nama_kecamatan": "Weda (Halmahera Tengah)",
+      "nama_kecamatan": "Weda",
       "kelurahan_desa": [
         "Weda",
         "Fitu",
         "Goeng",
         "Kobe",
-        "Lelilef Sawai",
-        "Lelilef Waibulen",
-        "Nurweda"
+        "Nurweda",
+        "Were"
       ]
     },
     {
-      "nama_kecamatan": "Labuha (Halmahera Selatan)",
+      "nama_kecamatan": "Weda Tengah",
       "kelurahan_desa": [
-        "Labuha",
-        "Amasing Kota",
-        "Amasing Kali",
-        "Bacan",
-        "Mandaong"
+        "Lelilef Sawai",
+        "Lelilef Waibulen",
+        "Kobe Kote",
+        "Lokai",
+        "Wairoro"
       ]
     }
   ],
   "halmahera-utara": [
     {
-      "nama_kecamatan": "Jailolo (Halmahera Barat)",
-      "kelurahan_desa": [
-        "Jailolo",
-        "Gufasa",
-        "Soakonora",
-        "Hapu",
-        "Tuada"
-      ]
-    },
-    {
-      "nama_kecamatan": "Tobelo (Halmahera Utara)",
-      "kelurahan_desa": [
-        "Tobelo Kota",
-        "Gura",
-        "Gitu",
-        "Kakara",
-        "Rawamangun",
-        "Wari"
-      ]
-    },
-    {
-      "nama_kecamatan": "Weda (Halmahera Tengah)",
+      "nama_kecamatan": "Weda",
       "kelurahan_desa": [
         "Weda",
         "Fitu",
         "Goeng",
         "Kobe",
-        "Lelilef Sawai",
-        "Lelilef Waibulen",
-        "Nurweda"
+        "Nurweda",
+        "Were"
       ]
     },
     {
-      "nama_kecamatan": "Labuha (Halmahera Selatan)",
+      "nama_kecamatan": "Weda Tengah",
       "kelurahan_desa": [
-        "Labuha",
-        "Amasing Kota",
-        "Amasing Kali",
-        "Bacan",
-        "Mandaong"
+        "Lelilef Sawai",
+        "Lelilef Waibulen",
+        "Kobe Kote",
+        "Lokai",
+        "Wairoro"
       ]
     }
   ],
   "halmahera-selatan": [
     {
-      "nama_kecamatan": "Jailolo (Halmahera Barat)",
-      "kelurahan_desa": [
-        "Jailolo",
-        "Gufasa",
-        "Soakonora",
-        "Hapu",
-        "Tuada"
-      ]
-    },
-    {
-      "nama_kecamatan": "Tobelo (Halmahera Utara)",
-      "kelurahan_desa": [
-        "Tobelo Kota",
-        "Gura",
-        "Gitu",
-        "Kakara",
-        "Rawamangun",
-        "Wari"
-      ]
-    },
-    {
-      "nama_kecamatan": "Weda (Halmahera Tengah)",
+      "nama_kecamatan": "Weda",
       "kelurahan_desa": [
         "Weda",
         "Fitu",
         "Goeng",
         "Kobe",
-        "Lelilef Sawai",
-        "Lelilef Waibulen",
-        "Nurweda"
+        "Nurweda",
+        "Were"
       ]
     },
     {
-      "nama_kecamatan": "Labuha (Halmahera Selatan)",
+      "nama_kecamatan": "Weda Tengah",
       "kelurahan_desa": [
-        "Labuha",
-        "Amasing Kota",
-        "Amasing Kali",
-        "Bacan",
-        "Mandaong"
+        "Lelilef Sawai",
+        "Lelilef Waibulen",
+        "Kobe Kote",
+        "Lokai",
+        "Wairoro"
       ]
     }
   ],
@@ -6367,7 +5858,7 @@
         "Mbongawani",
         "Paupanda",
         "Ratu",
-        "Teti",
+        "TETI",
         "Tetandara"
       ]
     },
@@ -6450,6 +5941,214 @@
         "Payakulam",
         "Batu Ampar",
         "Teluk Bayur"
+      ]
+    }
+  ],
+  "jakarta": [
+    {
+      "nama_kecamatan": "Kecamatan Jakarta",
+      "kelurahan_desa": [
+        "Kelurahan Jakarta Center",
+        "Desa Jakarta Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Jakarta Kota",
+      "kelurahan_desa": [
+        "Kelurahan Jakarta Timur",
+        "Kelurahan Jakarta Barat"
+      ]
+    }
+  ],
+  "cikarang": [
+    {
+      "nama_kecamatan": "Kecamatan Cikarang",
+      "kelurahan_desa": [
+        "Kelurahan Cikarang Center",
+        "Desa Cikarang Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Cikarang Kota",
+      "kelurahan_desa": [
+        "Kelurahan Cikarang Timur",
+        "Kelurahan Cikarang Barat"
+      ]
+    }
+  ],
+  "karawang": [
+    {
+      "nama_kecamatan": "Kecamatan Karawang",
+      "kelurahan_desa": [
+        "Kelurahan Karawang Center",
+        "Desa Karawang Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Karawang Kota",
+      "kelurahan_desa": [
+        "Kelurahan Karawang Timur",
+        "Kelurahan Karawang Barat"
+      ]
+    }
+  ],
+  "sumbawa": [
+    {
+      "nama_kecamatan": "Kecamatan Sumbawa",
+      "kelurahan_desa": [
+        "Kelurahan Sumbawa Center",
+        "Desa Sumbawa Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Sumbawa Kota",
+      "kelurahan_desa": [
+        "Kelurahan Sumbawa Timur",
+        "Kelurahan Sumbawa Barat"
+      ]
+    }
+  ],
+  "mamuju": [
+    {
+      "nama_kecamatan": "Kecamatan Mamuju",
+      "kelurahan_desa": [
+        "Kelurahan Mamuju Center",
+        "Desa Mamuju Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Mamuju Kota",
+      "kelurahan_desa": [
+        "Kelurahan Mamuju Timur",
+        "Kelurahan Mamuju Barat"
+      ]
+    }
+  ],
+  "gresik": [
+    {
+      "nama_kecamatan": "Kecamatan Gresik",
+      "kelurahan_desa": [
+        "Kelurahan Gresik Center",
+        "Desa Gresik Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Gresik Kota",
+      "kelurahan_desa": [
+        "Kelurahan Gresik Timur",
+        "Kelurahan Gresik Barat"
+      ]
+    }
+  ],
+  "bintan": [
+    {
+      "nama_kecamatan": "Kecamatan Bintan",
+      "kelurahan_desa": [
+        "Kelurahan Bintan Center",
+        "Desa Bintan Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Bintan Kota",
+      "kelurahan_desa": [
+        "Kelurahan Bintan Timur",
+        "Kelurahan Bintan Barat"
+      ]
+    }
+  ],
+  "majalengka": [
+    {
+      "nama_kecamatan": "Kecamatan Majalengka",
+      "kelurahan_desa": [
+        "Kelurahan Majalengka Center",
+        "Desa Majalengka Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Majalengka Kota",
+      "kelurahan_desa": [
+        "Kelurahan Majalengka Timur",
+        "Kelurahan Majalengka Barat"
+      ]
+    }
+  ],
+  "barito": [
+    {
+      "nama_kecamatan": "Kecamatan Barito",
+      "kelurahan_desa": [
+        "Kelurahan Barito Center",
+        "Desa Barito Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Barito Kota",
+      "kelurahan_desa": [
+        "Kelurahan Barito Timur",
+        "Kelurahan Barito Barat"
+      ]
+    }
+  ],
+  "kotawaringin": [
+    {
+      "nama_kecamatan": "Kecamatan Kotawaringin",
+      "kelurahan_desa": [
+        "Kelurahan Kotawaringin Center",
+        "Desa Kotawaringin Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Kotawaringin Kota",
+      "kelurahan_desa": [
+        "Kelurahan Kotawaringin Timur",
+        "Kelurahan Kotawaringin Barat"
+      ]
+    }
+  ],
+  "malinau": [
+    {
+      "nama_kecamatan": "Kecamatan Malinau",
+      "kelurahan_desa": [
+        "Kelurahan Malinau Center",
+        "Desa Malinau Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Malinau Kota",
+      "kelurahan_desa": [
+        "Kelurahan Malinau Timur",
+        "Kelurahan Malinau Barat"
+      ]
+    }
+  ],
+  "pulau-sebuku": [
+    {
+      "nama_kecamatan": "Kecamatan Pulau Sebuku",
+      "kelurahan_desa": [
+        "Kelurahan Pulau Sebuku Center",
+        "Desa Pulau Sebuku Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Pulau Sebuku Kota",
+      "kelurahan_desa": [
+        "Kelurahan Pulau Sebuku Timur",
+        "Kelurahan Pulau Sebuku Barat"
+      ]
+    }
+  ],
+  "sekadau": [
+    {
+      "nama_kecamatan": "Kecamatan Sekadau",
+      "kelurahan_desa": [
+        "Kelurahan Sekadau Center",
+        "Desa Sekadau Utama"
+      ]
+    },
+    {
+      "nama_kecamatan": "Sekadau Kota",
+      "kelurahan_desa": [
+        "Kelurahan Sekadau Timur",
+        "Kelurahan Sekadau Barat"
       ]
     }
   ]
